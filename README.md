@@ -1,5 +1,5 @@
 # WaveSounds
-Project of an exemple of a music app like Spotify where cen afford songs and podcasts
+Figma project of an exemple of a music app like Spotify where cen afford songs and podcasts
 --
 
 ![WaveSounds](https://github.com/user-attachments/assets/a89b0e13-ef2f-42e4-b633-5e3955f96653)
